@@ -1,12 +1,10 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Thiago
+-Profissão: QA em Formação & Pai de Princesa Adolescente
+-Cidade: Caraguatatuba/SP
+-O que faz nas horas vaga: Estudo Muito, Musculação, Calistenia, Trilha, Assistir (Animes e Séries), Trilha, Praia, Curto a filhona (quando não está com crise de Adolescente... hehehe...) e Procurar a Futura Sra. Moreira.
+-Feedback sobre o curso Qualidade de Software: Tenho gostado bastante, sobretudo, pelas atividades práticas desenvolvidas e os constantes Feedbacks.
+-Feedback sobre a plataforma de estudo da EBAC: Fácil Navegação e Organizada, mas deveria ser Dark Mode... Hehehe...
 
 Obrigado!!!
-
-
